@@ -1,10 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="readmebanner.jpg">
- <source media="(prefers-color-scheme: light)" srcset="readmebanner.jpg">
- <img alt="The word 'perspective' written upside down" src="readmebanner.jpg">
-</picture>
-
-
 ## Hi, there! I'm Patricia Melo.
 
 ```javascript
