@@ -1,4 +1,4 @@
-## Hi, there! I'm Patricia Melo.
+0## Hi, there! I'm Patricia Melo.
 
 ```javascript
 function dev(name, age, country, work, fuel) {
@@ -15,7 +15,7 @@ console.log(patriciaMelo);
 
 ### About me:
 
-I'm a Front-end developer living in Mossoró - RN. I have a degree in Civil Engineering from UFRN (Universidade Federal do Rio Grande do Norte) and I'm currently studying Computer Science at Universidade Cruzeiro do Sul in addition to Explorer track for Full Stack Development at Rocketseat. I'm curious about web development since my teenage years and now I'm finally following this old goal. 
+I'm a Front-end/Fullstack developer living in Mossoró - RN. I have a degree in Civil Engineering from UFRN (Universidade Federal do Rio Grande do Norte) and I'm currently studying Systems Analysis and Development at IFRN (Instituto Federal do Rio Grande do Norte) in addition to Explorer track for Full Stack Development at Rocketseat. I'm curious about web development since my teenage years and now I'm finally following this old dream. 
 
 My hobbies are mostly pc and board games, reading, listening to music and podcasts, crossfit, running, cycling and watching movies and series. Also, I have 2 cats and really love spending time with family and close friends.
 
