@@ -9,7 +9,7 @@ function dev(name, age, country, work, fuel) {
     this.fuel = fuel;
 }
 
-let patriciaMelo = new dev('Patricia Melo', 29, 'Brazil', 'Front-end developer', 'coffee');
+let patriciaMelo = new dev('Patricia Melo', 31, 'Brazil', 'Front-end developer', 'coffee');
 console.log(patriciaMelo);
 ```
 
