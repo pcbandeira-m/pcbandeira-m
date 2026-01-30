@@ -1,23 +1,20 @@
-0## Hi, there! I'm Patricia Melo.
+### Hi, there! I'm Patricia Melo.
 
 ```javascript
-function dev(name, age, country, work, fuel) {
+function dev(name, country, work, fuel) {
     this.name = name;
-    this.age = age;
     this.country = country;
     this.work = work;
     this.fuel = fuel;
 }
 
-let patriciaMelo = new dev('Patricia Melo', 31, 'Brazil', 'Front-end developer', 'coffee');
+let patriciaMelo = new dev('Patricia Melo', 'Brazil', 'Front-end developer', 'water');
 console.log(patriciaMelo);
 ```
 
 ### About me:
 
-I'm a Front-end/Fullstack developer living in Mossoró - RN. I have a degree in Civil Engineering from UFRN (Universidade Federal do Rio Grande do Norte) and I'm currently studying Systems Analysis and Development at IFRN (Instituto Federal do Rio Grande do Norte) in addition to Explorer track for Full Stack Development at Rocketseat. I'm curious about web development since my teenage years and now I'm finally following this old dream. 
-
-My hobbies are mostly pc and board games, reading, listening to music and podcasts, crossfit, running, cycling and watching movies and series. Also, I have 2 cats and really love spending time with family and close friends.
+Front-end developer with a background in Civil Engineering. I’m currently studying Systems Analysis and Development at IFRN, focusing on web and software development with an emphasis on high performance and clean code.
 
 ### Languages:
 
@@ -26,35 +23,27 @@ My hobbies are mostly pc and board games, reading, listening to music and podcas
 - Spanish (basic).
 
 
-### Skills - constantly learning:
+### Skills:
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=tokyo-night&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=tokyo-night&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=tokyo-night&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000?style=tokyo-night&logo=java)
-![C#](https://img.shields.io/badge/C%23-000?style=tokyo-night&logo=c-sharp&logoColor=823085)
-![Sass](https://img.shields.io/badge/Sass-000?style=tokyo-night&logo=sass)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=tokyo-night&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=tokyo-night&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=tokyo-night&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=tokyo-night&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=tokyo-night&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=tokyo-night&logo=python&logoColor=ffdd54)
 
 
 ### Current focus:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=tokyo-night&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=tokyo-night&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=tokyo-night&logo=mysql&logoColor=005C84)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=tokyo-night&logo=markdown)
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=tokyo-night&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=tokyo-night&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=tokyo-night&logo=react&logoColor=%2361DAFB)
 
 
 ### Tools:
 
-![GitHub](https://img.shields.io/badge/GitHub-000?style=tokyo-night&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=tokyo-night&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=tokyo-night&logo=figma&logoColor=white)
-
-
-### GitHub Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcbandeira-m&show_icons=true&theme=tokyonight)
 
 
 ### Contact me:
